@@ -1,0 +1,281 @@
+  }
+
+  .content-td p {
+    margin: 0 0 17px 0;
+    line-height: 1.5;
+  }
+
+  .content-td p img,
+  .content-td h1 img,
+  .content-td h2 img,
+  .content-td li img,
+  .content-td .intercom-h2b-button img {
+    margin: 0;
+    padding: 0;
+  }
+
+  .content-td a {
+    color: #1251ba;
+  }
+
+  .content-td p.intro {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .content-td blockquote {
+    margin: 40px 0;
+    font-style: italic;
+    color: #8C8C8C;
+    font-size: 18px;
+    text-align: center;
+    padding: 0 30px;
+    font-family: Georgia, sans-serif;
+    quotes: none;
+  }
+
+  .content-td blockquote a {
+    color: #8C8C8C;
+  }
+
+  .content-td ul {
+    list-style: disc;
+    margin: 0 0 20px 40px;
+    padding: 0;
+  }
+
+  .content-td ol {
+    list-style: decimal;
+    margin: 0 0 20px 40px;
+    padding: 0;
+  }
+
+  .content-td img {
+    margin: 17px 0;
+    max-width: 100%;
+  }
+
+  .content-td .intercom-container {
+    margin-bottom: 16px;
+  }
+
+  .content-td hr {
+    border: none;
+    border-top: 1px solid #DDD;
+    border-bottom: 0;
+    margin: 50px 30% 50px 30%;
+  }
+
+  table.intercom-container {
+    margin: 17px 0;
+  }
+  table.intercom-container.intercom-align-center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  table.intercom-container td {
+    background-color: #333333;
+    padding: 12px 35px;
+    border-radius: 3px;
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0;
+  }
+
+  .content-td .intercom-h2b-button {
+    font-size: 14px;
+    color: #FFF;
+    font-weight: bold;
+    display: inline-block;
+    text-decoration: none;
+    background-color: #333333;
+    border: none !important;
+  }
+
+  .content-td .intercom-h2b-button:hover {
+    background-color:#3c3b3b;
+  }
+
+  .message_footer_table .avatar {
+    -ms-interpolation-mode: bicubic;
+    -webkit-background-clip: padding-box;
+    -webkit-border-radius: 20px;
+    background-clip: padding-box;
+    border-radius: 20px;
+    display: inline-block;
+    height: 40px;
+    max-width: 100%;
+    outline: none;
+    text-decoration: none;
+    width: 40px;
+  }
+
+  .powered-by-table .powered-by {
+    font-weight: bold;
+    text-decoration: none;
+    color: #999;
+  }
+
+  .main_wrapper {
+    padding: 0 20px;
+  }
+
+  .margin-arrow {
+    display: none;
+    mso-hide: all;
+    visibility:hidden;
+    width:0;
+    height:0;
+    max-width: 0;
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+  }
+
+  .content-td > :first-child {
+    margin-top: 0;
+    padding-top: 0;
+  }
+</style>
+
+
+<style type=3D"text/css" data-premailer=3D"ignore">
+
+  @media screen and (max-width: 635px) {
+    .main-wrap {
+      width: 100% !important;
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+    .content-td {
+      padding: 30px 15px !important;
+    }
+    .content-td h1 {
+      margin-bottom: 5px;
+    }
+    .message_footer_table .space {
+      width: 20px !important;
+    }
+
+    .message_footer_table .arrow-wrap {
+      padding-left: 20px !important;
+    }
+
+    .message_footer_table .admin_name b{
+      display: block !important;
+    }
+
+    .main_wrapper {
+      padding: 0;
+    }
+
+    .image-arrow {
+      display: none !important;
+    }
+
+    .margin-arrow {
+      display: table !important;
+      visibility:visible !important;
+      width: 100% !important;
+      height: auto !important;
+      max-width: none !important;
+      max-height: none !important;
+      opacity: 1 !important;
+      overflow: visible !important;
+    }
+
+    .comment_body {
+      border-bottom: 1px solid #DDD !important;
+    }
+
+    .footer-td-wrapper {
+      display: block !important;
+      width: 100% !important;
+      text-align: left !important;
+    }
+    .footer-td-wrapper .date_cell {
+      text-align: left !important;
+      padding: 15px 0 0 20px !important;
+    }
+  }
+
+</style>
+
+
+<style type=3D"text/css" data-premailer=3D"ignore">
+  .content-td blockquote + * {
+    margin-top: 20px !important;
+  }
+
+  .ExternalClass .content-td h1 {
+    padding: 20px 0 !important;
+  }
+
+  .ExternalClass .content-td h2 {
+    padding: 0 0 5px !important;
+  }
+
+  .ExternalClass .content-td p {
+    padding: 10px 0 !important;
+  }
+
+.ExternalClass .content-td .intercom-container {
+    padding: 5px 0 !important;
+  }
+
+  .ExternalClass .content-td hr + * {
+    padding-top: 30px !important;
+  }
+
+  .ExternalClass .content-td ol ,
+  .ExternalClass .content-td ul {
+    padding: 0 0 20px 40px !important;
+    margin: 0 !important;
+  }
+
+  .ExternalClass .content-td ol li,
+  .ExternalClass .content-td ul li {
+    padding: 3px 0 !important;
+    margin: 0 !important;
+  }
+  .content-td > :first-child {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  .ExternalClass .content-td > :first-child {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+</style>
+
+
+
+<style type=3D"text/css">
+  .intercom-align-right {
+  text-align: right !important;
+}
+.intercom-align-center {
+  text-align: center !important;
+}
+.intercom-align-left {
+  text-align: left !important;
+}
+/* Over-ride for RTL */
+.right-to-left .intercom-align-right{
+  text-align: left !important;
+}
+.right-to-left .intercom-align-left{
+  text-align: right !important;
+}
+.right-to-left .intercom-align-left {
+  text-align:right !important;
+}
+.right-to-left li {
+  text-align:right !important;
+  direction: rtl;
+}
+.right-to-left .intercom-align-left img,
+.right-to-left .intercom-align-left .intercom-h2b-button {
+  margin-left: 0 !impo
